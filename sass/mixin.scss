@@ -1,0 +1,7 @@
+@import "./variables";
+
+@mixin main-text {
+    font-size: 4.5rem;
+    color: $textcolor;
+    font-family: 'Lato', sans-serif;
+}

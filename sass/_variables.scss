@@ -1,0 +1,15 @@
+// colors de background
+$bg1: #244F75;
+$bg2: #60BFBF;
+$bg3: #8C4B7E;
+$bg4: #F8BB44;
+$bg5: #F24B4B;
+
+// llista de colors per a poder canviar el bg al bucle @for
+$bg: $bg1, $bg2, $bg3, $bg4, $bg5;
+
+// color del text
+$textcolor: #fff5ee;
+
+// delay de l'animació d'entrada i declaració variables x, y, z
+$delay: 0.1s;
